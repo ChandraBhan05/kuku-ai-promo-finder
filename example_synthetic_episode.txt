@@ -1,0 +1,33 @@
+EPISODE NUMBER: Episode 7
+EPISODE LOGLINE: A completely invented test storyline, unrelated to any Kuku show.
+--- SCRIPT START ---
+SCENE 01
+Scene heading: INT. AN INVENTED HALL - DAY
+Scene start: 00:00.00
+Scene end: 00:31.00
+
+**HERO (Shocked):**
+Start: (00:00.00) | End: (00:02.00)
+"I cannot marry you!"
+
+**ACTION:**
+Start: (00:03.00) | End: (00:06.00)
+Hero sees a locked door and a hidden letter.
+
+**VILLAIN:**
+Start: (00:07.00) | End: (00:11.00)
+"The heir is missing."
+
+**HERO:**
+Start: (00:13.00) | End: (00:18.00)
+"Who has the key?"
+
+**VILLAIN:**
+Start: (00:20.00) | End: (00:24.00)
+"Someone wanted you dead."
+
+**HERO:**
+Start: (00:27.00) | End: (00:31.00)
+"Who is behind this?"
+
+--- SCRIPT END ---
